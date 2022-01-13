@@ -1,0 +1,14 @@
+D:\Probleme\SET 3\Problema28\Problema28\bin\Debug\netcoreapp3.1\Problema28.exe
+D:\Probleme\SET 3\Problema28\Problema28\bin\Debug\netcoreapp3.1\Problema28.deps.json
+D:\Probleme\SET 3\Problema28\Problema28\bin\Debug\netcoreapp3.1\Problema28.runtimeconfig.json
+D:\Probleme\SET 3\Problema28\Problema28\bin\Debug\netcoreapp3.1\Problema28.runtimeconfig.dev.json
+D:\Probleme\SET 3\Problema28\Problema28\bin\Debug\netcoreapp3.1\Problema28.dll
+D:\Probleme\SET 3\Problema28\Problema28\bin\Debug\netcoreapp3.1\Problema28.pdb
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.csproj.AssemblyReference.cache
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.AssemblyInfoInputs.cache
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.AssemblyInfo.cs
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.csproj.CoreCompileInputs.cache
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.dll
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.pdb
+D:\Probleme\SET 3\Problema28\Problema28\obj\Debug\netcoreapp3.1\Problema28.genruntimeconfig.cache
